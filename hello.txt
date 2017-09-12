@@ -1,2 +1,8 @@
 asdasdasdaa123
 Hello world !asdasdasdaa
+<<<<<<< HEAD
+hello three
+
+=======
+hello two!
+>>>>>>> d7706bec42336e8b12c5f4ac6393220567c478a5
