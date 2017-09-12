@@ -4,3 +4,4 @@ git is free software distributed under the GPL
 2 times
 3 times
 dev分支 冲突 and master 
+dev分支 冲突 and feature1
