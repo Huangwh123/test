@@ -7,3 +7,4 @@ git a is free software distributed under the GPL
 dev分支 冲突 and master 
 dev分支 冲突 and feature1
 dev no fast bug假设
+多人协作
